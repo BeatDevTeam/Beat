@@ -12,6 +12,7 @@ namespace Beat
     {
         public void Configuration(IAppBuilder app)
         {
+            //CommitTesting
             ConfigureAuth(app);
         }
     }
