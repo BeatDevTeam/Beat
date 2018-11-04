@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beat", "Beat\Beat.csproj", "{1C329444-DE1F-4846-92AE-80E1403CC29A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaData", "MetaData\MetaData.csproj", "{6DB7A268-E6CB-48CF-A9E7-7422901BECCF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1C329444-DE1F-4846-92AE-80E1403CC29A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C329444-DE1F-4846-92AE-80E1403CC29A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C329444-DE1F-4846-92AE-80E1403CC29A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DB7A268-E6CB-48CF-A9E7-7422901BECCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB7A268-E6CB-48CF-A9E7-7422901BECCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DB7A268-E6CB-48CF-A9E7-7422901BECCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DB7A268-E6CB-48CF-A9E7-7422901BECCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
